@@ -18,6 +18,7 @@
         "id": 2,
         "className": "bi bi-facebook",
         "href": "https://facebook.com/multicargaexpressjm",
+        "col": "col-3"
       },
       {
         "id": 3,
